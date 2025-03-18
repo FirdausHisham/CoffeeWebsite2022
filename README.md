@@ -27,6 +27,12 @@ The project is organized into several folders and files:
 - **Styles**: Contains CSS files for styling the web pages.
 
 ## Key Features
+Most of the implementations I did are here:  
+- [Order.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/HYSSOnline/Order.aspx.cs)
+- [Cart.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/HYSSOnline/Cart.aspx.cs)
+- [Login.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/Account/Login.aspx.cs)
+- [Register.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/Account/Register.aspx.cs)
+
 ### Login and Registration
 - **Login Page**: Allows users to log in using their username and password. It includes a "Remember me" checkbox to keep users logged in across sessions.
 - **Registration Page**: Enables new users to create an account by providing their details such as username, password, email, and phone number. It includes validation to ensure all required fields are filled out correctly.
