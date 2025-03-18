@@ -1,6 +1,5 @@
 # Internet Application Project - 2022
 
-## Disclaimer!!!
 This project was meant to be my Internet Application Project in 2022 and never updated it since then. Therefore, please feel free to check it out!
 
 ## Overview
