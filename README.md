@@ -1,7 +1,7 @@
 # Internet Application Project - 2022
 
 ## Disclaimer!!!
-This project was meant to be my Internet Application Project in 2022 and never update it since then. Therefore, please feel free to check it out!
+This project was meant to be my Internet Application Project in 2022 and never updated it since then. Therefore, please feel free to check it out!
 
 ## Overview
 This project is a web application that includes:
@@ -11,7 +11,7 @@ This project is a web application that includes:
 - Checkout Page
 - Contact Us Page
 
-The login page allows users to log in using a local account and order some drinks with tea and coffee filters.
+The login page allows users to use a local account and order drinks with tea and coffee filters.
 
 ## Technologies Used
 - ASP.NET Web Forms
@@ -37,7 +37,7 @@ The project is organized into several folders and files:
 
 ### Checkout Process
 - **Checkout Page**: Users can review their order, provide shipping details, and select a payment method. The page includes form validation to ensure all required information is provided.
-- **Payment Integration**: The checkout process integrates with a payment gateway to securely process payments. Users can enter their card details and complete the purchase.
+- **Payment Integration**: The checkout process integrates with a payment gateway to process payments securely. Users can enter their card details and complete the purchase.
 
 ### Contact Us
 - **Contact Us Page**: Provides a form for users to send inquiries or feedback. The form includes fields for the user's name, email, subject, and message. It also includes validation to ensure all required fields are filled out.
@@ -68,7 +68,7 @@ This file is part of the Modernizr library, which is used to detect HTML5 and CS
 ## Contributing
 If you would like to contribute to this project, please follow these steps:
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them with descriptive messages.
 4. Push your changes to your fork.
 5. Create a pull request to merge your changes into the main repository.
