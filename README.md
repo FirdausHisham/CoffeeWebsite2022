@@ -27,23 +27,23 @@ The project is organized into several folders and files:
 - **Styles**: Contains CSS files for styling the web pages.
 
 ## Key Features
-Most of the implementations I did are here:  
-- [Order.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/HYSSOnline/Order.aspx.cs)
-- [Cart.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/HYSSOnline/Cart.aspx.cs)
-- [Login.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/Account/Login.aspx.cs)
-- [Register.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/Account/Register.aspx.cs)
+
 
 ### Login and Registration
 - **Login Page**: Allows users to log in using their username and password. It includes a "Remember me" checkbox to keep users logged in across sessions.
 - **Registration Page**: Enables new users to create an account by providing their details such as username, password, email, and phone number. It includes validation to ensure all required fields are filled out correctly.
+- [Login.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/Account/Login.aspx.cs)
+- [Register.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/Account/Register.aspx.cs)
 
 ### Ordering System
 - **Ordering Page**: Users can browse and select various drinks, including tea and coffee. The page includes filters to help users find their preferred drinks easily.
 - **Add to Cart**: Users can add selected drinks to their cart, view the cart contents, and update quantities or remove items as needed.
+- [Order.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/HYSSOnline/Order.aspx.cs)
 
 ### Checkout Process
 - **Checkout Page**: Users can review their order, provide shipping details, and select a payment method. The page includes form validation to ensure all required information is provided.
 - **Payment Integration**: The checkout process integrates with a payment gateway to process payments securely. Users can enter their card details and complete the purchase.
+- [Cart.aspx.cs](https://github.com/FirdausHisham/CoffeeWebsite2022/blob/92b18f4cb7475749de627d5778f3ffcdad0c1c39/Project/HYSSOnline/Cart.aspx.cs)
 
 ### Contact Us
 - **Contact Us Page**: Provides a form for users to send inquiries or feedback. The form includes fields for the user's name, email, subject, and message. It also includes validation to ensure all required fields are filled out.
