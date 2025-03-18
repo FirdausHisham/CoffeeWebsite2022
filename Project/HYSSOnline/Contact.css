@@ -1,0 +1,17 @@
+﻿body {
+    background-image: url('CollageContactBg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#rcorners3 {
+    border-radius: 25px;
+    background-image: url('../Images/natural-wooden-background.jpg');
+    background-position: left top;
+    background-repeat:no-repeat;
+    background-size:cover;
+    padding: 20px;
+    width:60%;
+    position:center;
+    height: 150px;
+}

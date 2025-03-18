@@ -1,0 +1,113 @@
+﻿body {
+    background: url('Order page-background - Copy.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+* {
+    box-sizing: border-box
+}
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+}
+
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover, .next:hover {
+        background-color: rgba(0,0,0,0.8);
+    }
+
+
+
+/* The dots/bullets/indicators */
+.dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+    .active, .dot:hover {
+        background-color: #717171;
+    }
+
+/* Fading animation */
+.fade {
+    animation-name: fade;
+    animation-duration: 5.0s;
+}
+
+@keyframes fade {
+    from {
+        opacity: .4
+    }
+
+    to {
+        opacity: 1
+    }
+}-block;
+    margin: 2em .5em;
+    cursor: pointer;
+    color: #000;
+    font-family: Arial;
+    font-size: 28px;
+    padding: 12px 34px;
+    text-decoration: none;
+}
+
+    .prev:hover, .next:hover {
+        background-color: #5cbf2a;
+    }
+
+    .prev:active, .next:active {
+        position: relative;
+        top: 1px;
+    }
+
+    /*Button animation*/
+.button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #561414;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgba(0,0,0,0.8);
+}
+
+    .button:hover {
+        background-color: #ff0000;
+    }
+
+    .button:active {
+        background-color: rgba(0,0,0,0.8);
+        box-shadow: 0 5px rgba(0,0,0,0.8);
+        transform: translateY(4px);
+    }
+
+    #table1{
+        background-color:wheat;
+    }
+
