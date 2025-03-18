@@ -1,13 +1,15 @@
 # Internet Application Project - 2022
 
+## Disclaimer!!!
+This project was meant to be my Internet Application Project in 2022 and never update it since then. Therefore, please feel free to check it out!
 
 ## Overview
-This project is a web application that includes a: 
+This project is a web application that includes:
 - Login Page
-- Account registration Page
+- Account Registration Page
 - Ordering Page
 - Checkout Page
-- Contact us Page
+- Contact Us Page
 
 The login page allows users to log in using a local account and order some drinks with tea and coffee filters.
 
@@ -23,6 +25,22 @@ The project is organized into several folders and files:
 - **Account**: Contains pages related to user account management, such as `Login.aspx`.
 - **Scripts**: Contains JavaScript files, including `modernizr-2.8.3.js` for feature detection.
 - **Styles**: Contains CSS files for styling the web pages.
+
+## Key Features
+### Login and Registration
+- **Login Page**: Allows users to log in using their username and password. It includes a "Remember me" checkbox to keep users logged in across sessions.
+- **Registration Page**: Enables new users to create an account by providing their details such as username, password, email, and phone number. It includes validation to ensure all required fields are filled out correctly.
+
+### Ordering System
+- **Ordering Page**: Users can browse and select various drinks, including tea and coffee. The page includes filters to help users find their preferred drinks easily.
+- **Add to Cart**: Users can add selected drinks to their cart, view the cart contents, and update quantities or remove items as needed.
+
+### Checkout Process
+- **Checkout Page**: Users can review their order, provide shipping details, and select a payment method. The page includes form validation to ensure all required information is provided.
+- **Payment Integration**: The checkout process integrates with a payment gateway to securely process payments. Users can enter their card details and complete the purchase.
+
+### Contact Us
+- **Contact Us Page**: Provides a form for users to send inquiries or feedback. The form includes fields for the user's name, email, subject, and message. It also includes validation to ensure all required fields are filled out.
 
 ## Key Files
 ### Account/Login.aspx
@@ -60,4 +78,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 For any questions or feedback, please contact [Your Name] at [Your Email].
-
