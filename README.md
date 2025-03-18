@@ -82,4 +82,4 @@ If you would like to contribute to this project, please follow these steps:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact me at firdapro93@gmail.com.
